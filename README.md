@@ -85,9 +85,9 @@ Create a web-based dashboard for interactive signal visualization using Flask or
 ## Why This Project?
 This project highlights proficiency in:
 
-Signal Processing: Generating and preprocessing time-series neural data.
-Machine Learning: Building and evaluating AI models for classification.
-Visualization: Presenting complex data in an accessible way.
-Scalability: Codebase designed for adaptation to real-world BCI or neuroscience applications.
+- Signal Processing: Generating and preprocessing time-series neural data.
+- Machine Learning: Building and evaluating AI models for classification.
+- Visualization: Presenting complex data in an accessible way.
+- Scalability: Codebase designed for adaptation to real-world BCI or neuroscience applications.
 
 
