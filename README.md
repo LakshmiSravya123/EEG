@@ -90,5 +90,4 @@ Machine Learning: Building and evaluating AI models for classification.
 Visualization: Presenting complex data in an accessible way.
 Scalability: Codebase designed for adaptation to real-world BCI or neuroscience applications.
 
-Contact
-For questions or collaboration, reach out via [your-email@example.com] or [your GitHub profile].
+
